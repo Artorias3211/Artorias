@@ -1,9 +1,8 @@
 body{ background-color: rgb(255, 51, 51);
 
 }
-header{ background-color: white;}
+header{ background-color: white;
+font-style: fantasy;}
 #titulo{ margin-left: 750px; }
-       
-div{background-color: ; 
 
-}
+/*no próximo treino vamos aprender a estilizar fontes*/ 

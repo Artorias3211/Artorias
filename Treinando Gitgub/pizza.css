@@ -1,12 +1,16 @@
-body{ background-color: rgb(255, 51, 51);
-
+body {
+  background-color: rgb(255, 51, 51);
+  ;
 }
-header{ background-color: white;
-font-style: fantasy;}
-#titulo{ margin-left: 750px; }
-<<<<<<< HEAD
-       
-=======
+header {
+  background-color: white;
+  font-style: ;
+}
+#titulo {
+  margin-left: 750px;
+}
 
-/*no próximo treino vamos aprender a estilizar fontes*/ 
->>>>>>> pizza
+.pizzasdoces {
+  width: 240px;
+  height: 200px;
+}
